@@ -1,0 +1,307 @@
+
+---Downloaded files---
+The import files for: Grassy Demo Import were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/grassywp
+Data file = F:\xampp\htdocs\grassywp/wp-content/uploads/2020/05/demo-content-import-file_2020-05-03__08-29-24.xml
+Widget file = F:\xampp\htdocs\grassywp/wp-content/uploads/2020/05/demo-widgets-import-file_2020-05-03__08-29-24.json
+Customizer file = not defined!
+Redux files:
+grassywp_option -> F:\xampp\htdocs\grassywp/wp-content/uploads/2020/05/demo-redux-import-file_0-2020-05-03__08-29-24.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Imported
+Grassy Recent Post Widget - Latest Post - Imported
+Tag Cloud - Tags Cloud - Imported
+Archives - No Title - Widget already exists
+
+Off Canvas Sidebar : 
+
+Image - No Title - Imported
+Search - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Footer One Widget Area : 
+
+Text - No Title - Imported
+
+Footer Two Widget Area : 
+
+Grassy Recent Post Widget - Recent Posts - Imported
+
+Footer Three Widget Area : 
+
+Navigation Menu - Our SiteMap - Imported
+
+Footer Four Widget Area : 
+
+Grassy Recent Project Widget - Recent Projects - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: grassywp_option finished successfully!
+
+---pt-ocdi/after_import---
+

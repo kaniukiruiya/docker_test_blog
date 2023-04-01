@@ -1,0 +1,324 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-12-23 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator:\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:33
+msgid "404."
+msgstr ""
+
+#: 404.php:45
+msgid "Page Not Found"
+msgstr ""
+
+
+#: 404.php:59
+msgid "OR BACK TO HOMEPAGE"
+msgstr ""
+
+#: search.php:19
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: comments.php:31
+#. translators: 1: title.
+msgid "One comments on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#. translators: 1: title.
+msgid "%1$s comments on &ldquo;%2$s&rdquo;', '%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: functions.php:58
+msgid "Single Template Primary Menu"
+msgstr ""
+
+#: single-portfolios.php:55
+msgid "Portfolio Information"
+msgstr ""
+
+#: single-portfolios.php:58
+msgid "Created by:"
+msgstr ""
+
+#: single-portfolios.php:61
+msgid "Date:"
+msgstr ""
+
+#: single-portfolios.php:64
+msgid "Skills:"
+msgstr ""
+
+#: single-portfolios.php:67
+msgid "Client:"
+msgstr ""
+
+#: single-portfolios.php:70
+msgid "Demo:"
+msgstr ""
+
+#: single-portfolios.php:76
+msgid "Share Now: "
+msgstr ""
+
+#: single-teams.php:65
+msgid "Team Information"
+msgstr ""
+
+#: single-teams.php:70
+msgid "Designation:"
+msgstr ""
+
+#: single-teams.php:75
+msgid "Company:"
+msgstr ""
+
+#: single-teams.php:93
+msgid "Address:"
+msgstr ""
+
+#: single-teams.php:100
+msgid "City:"
+msgstr ""
+
+#: single-teams.php:107
+msgid "State:"
+msgstr ""
+
+#: single-teams.php:112
+msgid "Country:"
+msgstr ""
+
+#: single-teams.php:117
+msgid "Phone:"
+msgstr ""
+
+#: single-teams.php:122
+msgid "Email:"
+msgstr ""
+
+#: single-teams.php:129
+msgid "Website:"
+msgstr ""
+
+
+#: inc/template-tags.php:52
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:59
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+
+#: inc/template-tags.php:62
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:89 template-parts/content-page.php:89
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content.php:34
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:26
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:18
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/content-page.php:29
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:50
+msgid "Edit <span class="screen-reader-text">%s</span>"
+msgstr ""
+
+#: template-parts/content-single.php:33
+msgid "Edit <span class="screen-reader-text">%s</span>"
+msgstr ""
+
+#: template-parts/post/content.php:41
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-aside.php:25
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-aside.php:36
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-audio.php:68
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-audio.php:73
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:70
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:75
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-image.php:47
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-image.php:52
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-link.php:39
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-link.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/post/content-none.php:24
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/post/content-quote.php:68
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-quote.php:73
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-video.php:70
+msgid "Continue reading<span class="screen-reader-text"> "%s"</span>"
+msgstr ""
+
+#: template-parts/post/content-video.php:75
+msgid "Pages:"
+msgstr ""
+
+
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://underscores.me/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
+"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
+"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
+"theme out there. That's what I'm here for."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: comments.php:40
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:29
+#. translators: %s: post date.
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:59
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
